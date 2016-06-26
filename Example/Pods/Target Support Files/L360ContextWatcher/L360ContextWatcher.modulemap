@@ -1,0 +1,6 @@
+framework module L360ContextWatcher {
+  umbrella header "L360ContextWatcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
