@@ -1,0 +1,16 @@
+PODS:
+  - L360ContextWatcher (0.1.0)
+
+DEPENDENCIES:
+  - L360ContextWatcher (from `../`)
+
+EXTERNAL SOURCES:
+  L360ContextWatcher:
+    :path: ../
+
+SPEC CHECKSUMS:
+  L360ContextWatcher: 2cb21a4c32b91906dddaa772f99b0be64a3a03e0
+
+PODFILE CHECKSUM: 3cda3203dba49fade9a848d9b6a6de78c9d4d720
+
+COCOAPODS: 1.0.1

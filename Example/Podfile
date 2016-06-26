@@ -1,0 +1,6 @@
+use_frameworks!
+target 'L360ContextWatcher_Tests' do
+  pod 'L360ContextWatcher', :path => '../'
+  
+  
+end
